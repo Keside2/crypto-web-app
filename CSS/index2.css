@@ -1,0 +1,79 @@
+.okay2{
+    background-color: black;
+    width: 100%;
+    height:  100vh;
+}
+.zin{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.zin:hover{
+    color: rgb(180, 21, 21);
+}
+.won{
+    font-size: 60px;
+    color: white;
+}
+.win{
+    background-color:rgb(231, 225, 225);
+}
+.rop{
+    margin-left: 200px;
+}
+.zon{
+    background-color:rgb(231, 225, 225);
+    width: 100%;
+    height: 35vh;
+    padding: 30px;
+    /* margin: 10px; */
+    border-start-end-radius: 30px;
+    border-start-start-radius: 30px;
+}
+.one{
+    float: right;
+    font-size: 20px;
+    color: black;   
+}
+.yon{
+    padding: 10px;
+    /* margin: 10px; */
+    border-radius: 10px;
+     width: 105px;
+}
+.aon{
+    background-color:rgb(231, 225, 225);
+    width: 100%;
+    height: 120vh;
+    padding: 30px;
+    /* margin: 10px; */
+    /* border-start-end-radius: 30px;
+    border-start-start-radius: 30px; */
+}
+.eop{
+    background-color: #FCD535;
+}
+.eop:hover{
+    background-color: #F0B90B;
+}
+#for{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.tin{
+    color: black;
+}
+.tin:hover{
+    text-decoration: none;
+    color: black;
+}
+.uop:hover{
+    background-color:rgb(141, 134, 134);
+}
+.uzp{
+    background-color: black;
+    border-radius: 10px;
+    
+}

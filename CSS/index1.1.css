@@ -1,0 +1,419 @@
+/* HOME START HERE */
+.okay{
+    background-color: white;
+    width: 100%;
+    height:  290vh;
+    /* padding: 30px;
+    margin: 10px; */
+
+}
+#heading{
+    color: black;
+    text-shadow: 1px 3px 3px red;
+    -webkit-text-stroke: 1px;
+    text-align: center;
+    font-family:"Roboto Condensed", sans-serif;
+
+}
+#pin{
+    border-radius: 50%;
+}
+#gin{
+    border-radius: 40%;
+}
+.win{
+    background-color: white;
+}
+.yin{
+    color: black;
+}
+.zin{
+    color: black;
+}
+.zin:hover{
+    color:  rgb(180, 21, 21);
+}
+.rop{
+    margin-left: 200px;
+   
+}
+
+.bon{
+    padding: 10px;
+    margin: 10px;
+    /* margin-right: 30px;
+    margin-left: 30px; */
+    color: black;
+
+}
+.bon:hover{
+    padding: 7px;
+    color: black;
+}
+.letss{
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 3px;
+    background-color:green;
+}
+.letsss{
+    color: white;
+    text-align: center;
+    padding: 3px;
+    margin: 3px;
+    background-color:red;
+}
+.let{
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+    background-color: blue;
+    
+}
+.zon{
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+}
+.aon{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 1px solid white;
+    animation: up-down 2s infinite;
+}
+
+@keyframes up-down {
+    0%{transform: translateY(0px);}
+    16%{transform: translateY(px);}
+    50%{transform: translateY(60px);}
+    100%{transform: translateY(0px);}
+}
+.pqq{
+    background-color: white;
+    
+}
+.two{
+    /* padding: 2px; */
+    margin-top:5px;
+    /* margin: 10px; */
+}
+.two:hover{
+    padding: 5px;
+}
+
+.qon{
+    padding: 5px;
+    /* margin: 5px; */
+    border-radius: 10px;
+    font-size: 15px;
+    width: 150px;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(180, 21, 21);
+    color: white;
+}
+.qre{
+    width: 340px;
+    font-size: 15px;
+    height: 70px;
+}
+.qrq{
+    font-size: 15px;
+}
+.qew{
+    float: left;
+}
+.loz{
+    color: white;
+    font-size: 50px;
+}
+.lox{
+    color: white;
+    width: 30px;
+}
+
+
+.qon:hover{
+    padding: 3px;
+    background-color: black;
+    color: white;
+       
+}
+#qon{
+    text-decoration: none;
+    color: white;
+}
+#qon:hover{
+    color: white;
+}
+.mon{
+    background-color: white;
+}
+.yon{
+    background-color:rgb(231, 225, 225);;
+    width: 100%;
+    height: 90vh;
+    padding: 30px;
+    /* margin: 10px; */
+    border-start-end-radius: 30px;
+    border-start-start-radius: 30px;
+   
+}
+.eon{
+    /* margin-right: 10px;   */
+    margin: 15px;
+    border: 1px solid  white;
+    border-radius: 50%;
+    text-align: center;
+    height: 190px;
+
+   
+}
+.qpl{
+    padding: 30px;
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.qpl:hover{
+    padding: 10px;
+    background-color: rgb(235, 230, 230);
+}
+
+.kon{
+    color: black;
+    font-size: 40px;
+    margin: 10px;
+    
+    
+}
+.kon3{
+    text-align: center;
+}
+.kon9{
+    text-align: center;
+}
+.ion{
+    text-align: center;
+}
+.pon{
+    font-size: 50px;
+    padding: 5px;
+    margin: 10px;
+    /* margin-left: 90px;
+    margin-right: 90px; */
+
+}
+
+.xin:hover{
+    background-color: rgba(243, 232, 232, 0.479);
+    padding: 3px;
+    border-radius: 10%;
+
+}
+.xiz{
+    border-radius: 50%;
+}
+.rin{
+    color: black;
+    padding: 10px;
+}
+.rin:hover{
+    
+    padding: 7px;
+}
+#kon{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin: 10px;
+    font-family: cursive;
+}
+#ton{
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.uan{
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 20px;
+    width: 160px;
+    background: black;
+}
+#uan{
+    text-decoration: none;
+    color: white;
+}
+.uan:hover{
+    background-color:   rgb(180, 21, 21);
+}
+.fop{
+    color: black;
+}
+.p{
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    border: 1px solid black;
+    font-size: 18px;
+    background-color: blue;
+}
+.p:hover{
+    background-color: blue;
+}
+.ppp{
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    border: 1px solid black;
+    font-size: 18px;
+    background-color: red;
+}
+.ppp:hover{
+    background-color: red;
+}
+.pppp{
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    border: 1px solid black;
+    font-size: 18px;
+    background-color: green;
+}
+.pppp:hover{
+    background-color: green;
+}
+.pp{
+    color: blue;
+    text-align: center;
+    padding: 5px;
+    margin: 3px;
+    /* background-color: blue; */
+    border-radius: 50%;
+    border: 1px solid black;
+    font-size: 18px;
+    background-color: white;
+}
+.pp:hover{
+    background-color: white;
+    color: blue;
+}
+.row{
+    text-align: center;
+}
+.three{
+    border: 1px solid black;
+}
+.four{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+#lop{
+    padding: 10px;
+    /* margin: 10px;  */
+    background-color: rgba(255, 255, 255, 0);
+    
+}
+h5{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: cursive; 
+    
+}
+.koz{
+    font-size: 30px;
+    text-align: center;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+/* HOME END HERE */
+
+/* SIGN-UP START HERE */
+
+.okay2{
+    background-color: white;
+    width: 100%;
+    height:  118vh;
+    /* padding: 30px;
+    margin: 10px; */
+
+}
+
+.vip{
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    border-radius: 10px;
+    
+     
+}
+.dip{
+    padding: 10px ;
+    margin: 10px;
+   
+    color: white;
+}
+.mip{
+    color: white;
+    text-shadow: 1px 3px 3px red;
+    -webkit-text-stroke: 1px;
+    text-align: center;
+    font-family:"Roboto Condensed", sans-serif;
+    font-size: 20px;
+
+}
+.yop{
+    text-align: center;
+}
+.rip:hover{
+    text-decoration: none;
+}
+.eip{
+    width: 100%;
+    background-color: blue;
+}
+.eip:hover{
+    background-color:rgb(94, 94, 238);
+}
+.tip{
+    width: 100%;
+}
+.jip{
+    color: black;
+   
+}
+.jip:hover{
+    text-decoration: none;
+    color: black;
+}
+
+/* SIGN-UP END HERE */
+
+/* LOGIN START HERE */
+
+
+
+
+
+
+/* LOGIN END HERE */
